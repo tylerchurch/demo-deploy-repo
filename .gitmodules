@@ -1,3 +1,6 @@
 [submodule "support"]
 	path = support
 	url = https://github.com/tylerchurch/demo-support-repo
+[submodule "analytics"]
+	path = analytics
+	url = https://github.com/tylerchurch/demo-analytics-repo
